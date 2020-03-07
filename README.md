@@ -1,3 +1,8 @@
-# Project 2
+# Application Name
 
-Web Programming with Python and JavaScript
+TODO: Describe your application here.
+
+
+## Getting Started
+
+TODO: Describe steps to install requirements and get the application running.
